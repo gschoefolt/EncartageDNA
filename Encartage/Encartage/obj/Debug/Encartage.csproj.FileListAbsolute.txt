@@ -1,0 +1,63 @@
+C:\Users\schoe\Desktop\Encartage\Encartage\bin\Debug\Encartage.exe.config
+C:\Users\schoe\Desktop\Encartage\Encartage\bin\Debug\Encartage.exe
+C:\Users\schoe\Desktop\Encartage\Encartage\bin\Debug\Encartage.pdb
+C:\Users\schoe\Desktop\Encartage\Encartage\bin\Debug\fr\Encartage.resources.dll
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.csprojAssemblyReference.cache
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.csproj.ResolveComReference.cache
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.FicheDistribution.resources
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.FicheInfos.resources
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.FicheTexteASaisir.resources
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.FrmHome.resources
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.ModificationEncart.resources
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.MsgBox.resources
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.Properties.Resources.resources
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.SaisieEncart.resources
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.SuppressionEncart.resources
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.FrmHome.fr.resources
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.csproj.GenerateResource.cache
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.csproj.CoreCompileInputs.cache
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\fr\Encartage.resources.dll
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.exe
+C:\Users\schoe\Desktop\Encartage\Encartage\obj\Debug\Encartage.pdb
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\bin\Debug\Encartage.exe.config
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\bin\Debug\Encartage.exe
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\bin\Debug\Encartage.pdb
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.csprojAssemblyReference.cache
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.csproj.ResolveComReference.cache
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.FicheDistribution.resources
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.FicheInfos.resources
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.FicheTexteASaisir.resources
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.FrmHome.resources
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.ModificationEncart.resources
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.MsgBox.resources
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.Properties.Resources.resources
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.SaisieEncart.resources
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.csproj.GenerateResource.cache
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.csproj.CoreCompileInputs.cache
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.exe
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.pdb
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.UCNombreCopie.resources
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.FicheImpression.resources
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.FrmModifEncart.resources
+F:\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.FrmModifEditions.resources
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\bin\Debug\Encartage.exe.config
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\bin\Debug\Encartage.exe
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\bin\Debug\Encartage.pdb
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.csprojAssemblyReference.cache
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.csproj.ResolveComReference.cache
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.FicheDistribution.resources
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.FicheInfos.resources
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.FicheTexteASaisir.resources
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.FrmHome.resources
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.FicheImpression.resources
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.FrmModifEditions.resources
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.FrmModifEncart.resources
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.ModificationEncart.resources
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.MsgBox.resources
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.Properties.Resources.resources
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.SaisieEncart.resources
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.UCNombreCopie.resources
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.csproj.GenerateResource.cache
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.csproj.CoreCompileInputs.cache
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.exe
+C:\Users\schoe\Desktop\Guillaume\Projets\DNA ALS Encartage\Encartage\Encartage\obj\Debug\Encartage.pdb

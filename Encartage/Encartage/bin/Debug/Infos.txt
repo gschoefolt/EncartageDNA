@@ -1,0 +1,69 @@
+Dictionnaire qui contient les données se nommant dictInfos dans les UserControl avec pour chacun la méthode dictioInfos pour le récupérer :
+
+FICHE INFOS :
+titre --> Le titre de l'encart (ex : "DNA")
+initiales --> Les initiales utilisées (ex : "CM")
+dateDebut --> La date du début de l'encart (ex : "13/07/2019")
+dateFin --> La date de fin de l'encart 
+nom --> Le nom de l'encart (ex : "FEMINA DNA")
+poids --> Le poids de l'encart (ex : "54")
+type --> Le type d'édition de l'encart (ex : "C" ou "P")
+
+FICHE DISTRIBUTION :
+editions --> Les éditions choisies (ex : "67A, 68O, 68M")
+distrib --> Les distributions choisies (ex : "P, VNO, SB")
+nbExemp --> Le nombre d'exemplaire (ex : "59974")
+
+FICHE EDITION PORTEUR :
+editionsPorteur --> Les éditions choisies uniquement pour le porteur (ex : "67A, 67B")
+
+FICHE EDITION PARTIELLE :
+editionsPartielle --> Les éditions choisies pour le type partielle (ex : "67A, 67B")
+distribPartielle --> Les distributions choisies pour le type partielle (ex : "P, C")
+nbExempPartielle --> Le nombre d'exemplaire pour le type partielle (ex : "54491")
+
+FICHE TEXTE A SAISIR :
+textes --> les textes mis pour l'encart (ex : "ATTENTION BLABLABLA ;;; AUTRE TEXTE ")
+
+
+
+Architecture du répertoire de l'application :
+
+Encartage.exe (f)
+Encartage.xml (f)
+--- MACQUETTES (r)
+--- --- BDD_MACQUETTE.xlsx (f)
+--- --- PLAN_ALS (f)
+--- --- PLAN_DNA (f)
+--- ENCARTS (r)
+--- --- DNA (r)
+--- --- --- 2019 (r)
+--- --- --- --- Juillet (r)
+--- --- --- --- --- 16_07_2019 (r)
+--- --- --- --- --- --- PLAN.xls (f)
+--- --- --- --- --- --- BDD.xlsx (f)
+--- --- --- --- --- --- LISTE_ENCARTS.xls (f)
+--- --- --- --- --- --- NOTES (f)
+--- --- --- --- --- --- --- FEMINA.xlsx (f)
+--- --- ALS (r)
+--- --- --- 2020 (r)
+--- --- --- --- Novembre (r)
+--- --- --- --- --- 29_11_2020 (r)
+
+
+
+Excels :
+Dans les plans du DNA et ALS les premières cellules d'une édition sont nommés.
+Exemple : 1ère cellule 68B du plan ALS nommé EDI68B
+
+La date à mettre est celle de l'encartage, la cellule se nomme DATE
+
+
+Excel Plan :
+string[,] : ligne ? colonne = 6
+Colonne 1 --> nom de l'encart
+Colonne 2 --> X si Porteur
+Colonne 3 --> X si VNO
+Colonne 4 --> X si SB 
+Colonne 5 --> RIEN
+Colonne 6 --> X si jeu séparé

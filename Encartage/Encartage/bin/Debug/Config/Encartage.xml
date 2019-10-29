@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<encartage>
+    <titres>
+        <titre valeur="DNA">
+            <edition>67A Sarre Union</edition>
+            <edition>67B Saverne</edition>
+            <edition>67C Wissembourg</edition>
+            <edition>67D Haguenau</edition>
+            <edition>67E Sel. Centre Als</edition>
+            <edition>67F Molsheim Schirm.</edition>
+            <edition>67G Obernai Barr</edition>
+            <edition>67H Erstein Benfeld</edition>
+            <edition>67I Strasbourg Sud</edition>
+            <edition>67J Strasbourg Campagne</edition>
+            <edition>67K Strasbourg Nord</edition>
+            <edition>67L Strasbourg</edition>
+            <edition>68M Mulhouse</edition>
+            <edition>68N Guebwiller</edition>
+            <edition>68O Colmar</edition>
+        </titre>
+        <titre valeur="ALS">
+            <edition>68A Trois Frontières</edition>
+            <edition>68B Sundgau</edition>
+            <edition>68C Guebwiller</edition>
+            <edition>68D Thur et Doller</edition>
+            <edition>68E Mulhouse</edition>
+            <edition>68F Colmar</edition>
+            <edition>67S Strasbourg</edition>
+        </titre>
+    </titres>
+
+    <textes>
+        <texte>Attention au repiquage</texte>
+        <texte>Jusqu'à épuisement des stocks</texte>
+        <texte>Veuillez nous indiquer le nombre d'exemplaire restant après encartage</texte>
+    </textes>
+
+</encartage>
